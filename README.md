@@ -1,6 +1,6 @@
 # AudioInsight
 1) Lovable = audioinsight website
-2) MS PPT = content for ppt
+2) MS PPT = content writing for ppt
 3) Gamma = designed ppt
 4) ChaGPT = gather info
 5) Gemini = gather info
