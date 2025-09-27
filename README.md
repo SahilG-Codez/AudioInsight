@@ -11,3 +11,10 @@ I)Problem : difficult to get actual value from unorganised raw data
 
 II)Solution : AudioInsight - get value reports in form of charts, graphs and transcripts
 
+Team Drill & Design:
+1) Sahil Gupta
+2) Pranav Agrawal
+3) Siddharth Goyal
+4) Nishant
+
+
